@@ -8,7 +8,7 @@ HI :smile:
 * HTML ![HTML LOGO](/images/html.png)
 * CSS
 * JS
-* SCSS
+* SCSS  ![SCSS LOGO](/images/sass.png)
 * NodeJS
 * MongoDB
 * ExpressJS
