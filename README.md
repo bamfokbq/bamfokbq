@@ -1,8 +1,12 @@
-HI :smile:, i'm #Quaicoe Samuel.
-#Am a self-taught web developer residing in Ghana(West Africa):city_sunrise:
+HI :smile:
+
+## i'm Quaicoe Samuel
+
+## Am a self-taught web developer residing in Ghana(West Africa):city_sunrise:
 
 ## PROGRAMMING SKILLS AND TECHNOLOGIES :nut_and_bolt:
-* HTML 
+
+* HTML ![HTML LOGO](/images/html.png)
 * CSS
 * JS
 * SCSS
@@ -10,4 +14,5 @@ HI :smile:, i'm #Quaicoe Samuel.
 * MongoDB
 * ExpressJS
 * ReactJS 
-## DESIGNING SKILLS AND TECHNOLOGIES
+  
+## DESIGNING SKILLS AND TECH
