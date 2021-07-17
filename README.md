@@ -14,3 +14,8 @@ HI :smile:
 * ExpressJS
 * ReactJS 
   
+### SOFT SKILLS
+* Good listener
+* Able to work with people and maintain work relationship
+* Good communication skills
+* Great analytical skills
