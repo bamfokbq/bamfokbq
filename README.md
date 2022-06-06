@@ -1,6 +1,6 @@
 HI :smile:
 
-# I'm Quaicoe Samuel
+# I'm Kofi Bamfo Quaicoe
 
 ## Am a self-taught web developer residing in Ghana(West Africa):city_sunrise: ##
 
