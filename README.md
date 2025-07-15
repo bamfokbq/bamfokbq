@@ -33,7 +33,7 @@ Here are some of the technologies I work with:
 * TypeScript
 * Payload CMS & Headless architecture
 * AI-assisted workflows
-* Scalable backend design (e.g., Firebase multi-instance, MongoDB optimization)
+* Scalable backend design (e.g., Firebase multi-instance, MongoDB optimisation)
 
 ---
 
